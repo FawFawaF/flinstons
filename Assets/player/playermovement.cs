@@ -3,8 +3,7 @@ using UnityEngine.InputSystem;
 
 public class playermovement : MonoBehaviour
 {
-
-    private float movespeed = 5f;
+    public float movespeed = 5f;
     private Rigidbody2D rb;
     private Vector2 moveInput;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
