@@ -1,1 +1,1 @@
-jogo maneiro que estou tentando fazer com meu camaradas
+jogo maneiro que estou tentando fazer com meus camaradas
